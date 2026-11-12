@@ -41,7 +41,7 @@ The ER diagram represents the relationships between the seven tables in the Stud
 
 **Insert your ER diagram below:**
 
-![Student Management System ER diagram](student management system ER diagram.png)
+[Student Management System ER diagram](student management system ER diagram.png)
 
 <!-- Example: ![Student Management System ER Diagram](er-diagram.png) -->
 
