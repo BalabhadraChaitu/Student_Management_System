@@ -52,6 +52,7 @@ The ER diagram represents the relationships between the seven tables in the Stud
 - Numeric Functions
 - String Functions
 - Date Functions
+- Set Operations
 - Joins
 - Subqueries
 - Views
